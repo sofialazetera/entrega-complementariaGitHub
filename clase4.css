@@ -1,0 +1,36 @@
+h1{
+    color: blue;
+    font-family: serif;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    color: purple;
+    text-align: center;
+    text-decoration:underline;
+    letter-spacing: 2px;
+}
+p{
+    color:#0033ff;
+    line-height: 15px;
+    font-size: 12px;
+    letter-spacing: 1px;
+}
+.fondoCeleste{
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 700px;
+
+}
+.fondoGris{
+    background-color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 700px;
+
+}
+.fondoRosa{
+    background-color: pink;
+    font-family: 'Courier New', Courier, monospace;
+    width: 700px;
+}
